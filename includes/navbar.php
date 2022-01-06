@@ -130,7 +130,7 @@
 
             <!-- Nav Item - Transaction -->
             <li class="nav-item">
-                <a class="nav-link" href="transaksi.html">
+                <a class="nav-link" href="transaksi.php">
                     <i class="fas fa-fw fa-hand-holding-usd"></i>
                     <span>Transaction</span></a>
             </li>
