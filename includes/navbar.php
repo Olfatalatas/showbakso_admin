@@ -114,25 +114,18 @@
                 </div>
             </li>
 
-            <!-- Nav Item - Charts -->
-            <li class="nav-item">
-                <a class="nav-link" href="charts.html">
-                    <i class="fas fa-fw fa-chart-area"></i>
-                    <span>Menu</span></a>
-            </li>
-
             <!-- Nav Item - Tables -->
             <li class="nav-item">
                 <a class="nav-link" href="tabel.php">
                     <i class="fas fa-fw fa-table"></i>
-                    <span>Tables</span></a>
+                    <span>Menu</span></a>
             </li>
 
             <!-- Nav Item - Transaction -->
             <li class="nav-item">
                 <a class="nav-link" href="transaksi.php">
                     <i class="fas fa-fw fa-hand-holding-usd"></i>
-                    <span>Transaction</span></a>
+                    <span>Transaksi</span></a>
             </li>
 
             <!-- Divider -->
