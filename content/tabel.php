@@ -21,13 +21,13 @@ include("../includes/topbar.php");
                             <label for="menu">
                                 Nama Menu
                             </label>
-                            <input type="text" class="form-control" id="inputmenu" placeholder="Masukkan nama menu">
+                            <input type="text" class="form-control" id="inputmenu" placeholder="Masukkan nama menu" required>
                         </div>
                         <div class="form-group">
                             <label for="harga">
                                 Harga
                             </label>
-                            <input type="text" class="form-control" id="inputharga" placeholder="Masukkan harga">
+                            <input type="text" class="form-control" id="inputharga" placeholder="Masukkan harga" required>
                         </div>
                         <div class="form-group">
                             <label for="gambar">
@@ -35,7 +35,7 @@ include("../includes/topbar.php");
                             </label>
                             <div class="custom-file">
                                 <label class="custom-file-label" for="customFile">Pilih file</label>
-                                <input type="file" class="custom-file-input" id="filegambar" placeholder="Masukkan harga">
+                                <input type="file" class="custom-file-input" id="filegambar" placeholder="Masukkan harga" required>
                             </div>
                         </div>
                     </form>
